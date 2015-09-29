@@ -4,7 +4,7 @@
 #
 Name     : rubygem-uuidtools
 Version  : 2.1.5
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/uuidtools-2.1.5.gem
 Source0  : https://rubygems.org/downloads/uuidtools-2.1.5.gem
 Summary  : No detailed summary available
